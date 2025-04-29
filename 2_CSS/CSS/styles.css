@@ -7,3 +7,9 @@ padding-bottom: 500px;
 h3 {
     color: green;
 } 
+
+.paragraph {
+    background-color: black;
+    color: aqua;
+    padding: 5px;
+}
