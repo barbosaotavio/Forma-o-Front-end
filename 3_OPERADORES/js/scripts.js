@@ -14,5 +14,17 @@ console.log(5+(4*2)) //multiplicação com adição
 // 3 - Especial numbers
 
 console.log(typeof Infinity)
-console.log( typeof -Infinity)
+console.log(typeof -Infinity)
 console.log(5/ "teste")
+console.log(typeof NaN)
+
+
+// 4 - Strings
+
+console.log('otavio')
+console.log('idade')
+console.log('29')
+
+console.log(typeof 'otavio')
+console.log(typeof 'idade')
+console.log(typeof '29')
